@@ -71,16 +71,10 @@
 番号:@{triggerBody()?['cardOutputs']?['number']}の承認お願いします。
 ```
 
-最後の
 
-`@{triggerBody()?['cardOutputs']?['number']}`
-
-の値は、［作成ボックスから（V2）］（現在は名前が `manual` に変更されている）で入力した値を取得している。
-
-この `number` というキーは、Adaptive Card の設定における **id 欄**と一致させる必要がある。
+最後の`@{triggerBody()?['cardOutputs']?['number']}`の値は、［作成ボックスから（V2）］（現在は名前が `manual` に変更されている）で入力した値を取得している。この `number` というキーは、Adaptive Card の設定における **id 欄**と一致させる必要がある。
 
 以下は、Adaptive Card Designer 上での設定例である。
-
 [https://adaptivecards.io/designer/](https://adaptivecards.io/designer/)
 
 
