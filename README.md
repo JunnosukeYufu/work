@@ -1,2 +1,2 @@
-# powerautomate-flows
-Power Automateを使用した自動化フローです
+# work
+業務・個人開発を問わず、想定または実課題をもとに作成した成果物をまとめています。
