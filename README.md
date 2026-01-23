@@ -1,2 +1,4 @@
 # work
-業務・個人開発を問わず、想定または実課題をもとに作成した成果物をまとめています。
+業務課題を起点とした、設計・実装の記録
+
+- [Teams 承認依頼投稿の @mention 自動化（Power Automate）](./teams-message-posting/README.md)
