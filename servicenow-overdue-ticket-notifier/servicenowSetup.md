@@ -241,3 +241,5 @@ if (gr.next()) {
 （ただし、Developer 環境では外部へのメール送信は行われない。）
 
 ![sn-12.png](./images/sn-12.png)
+
+以上でServiceNowの設定は完了とする。
