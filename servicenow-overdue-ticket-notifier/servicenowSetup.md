@@ -14,7 +14,7 @@
 4. Notification Email Scripts
 5. Scheduled Jobs
 
-## 1.Incident ticket作成
+## Incident ticket作成
 
 まず、検証用のサンプル Incident チケットを作成する。
 
