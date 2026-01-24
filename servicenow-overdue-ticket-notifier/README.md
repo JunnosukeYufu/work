@@ -44,5 +44,5 @@ ServiceNow で期限切れチケットを検出し、通知メールを送信す
 
 今回は記事が長くなるため、カテゴリごとに分割している。詳細は以下を参照。
 
-1. ServiceNow設定: `servicenowSetup.md`
+1. [ServiceNow設定](servicenowSetup.md)
 2. Power Automate フロー: `power-automate/flow.md`
