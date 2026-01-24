@@ -242,4 +242,4 @@ if (gr.next()) {
 
 ![sn-12.png](./images/sn-12.png)
 
-以上でServiceNowの設定は完了とする。
+以上でServiceNowの設定は完了となる。
